@@ -1,5 +1,7 @@
 Eine PDF von meiner Notion Doku Step by Step zum Projekt wurde beigefügt :)
 
+Build/type error --> wahrscheinlich durch changes von next 13 zu next 15 :( --> bedarf fix
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
